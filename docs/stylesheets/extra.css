@@ -1,3 +1,20 @@
 .md-footer {
     display: none !important;
 }
+
+/* Content Headers */
+.md-content h1,
+.md-content h2,
+.md-content h3,
+.md-content h4,
+.md-content h5,
+.md-content h6 {
+    color: var(--md-primary-fg-color) !important;
+    font-weight: bold !important;
+}
+
+/* Sidebar Top Level Navigation */
+.md-nav--primary > ul > .md-nav__item--nested > .md-nav__link {
+    color: var(--md-primary-fg-color) !important;
+    font-weight: bold !important;
+}

@@ -30,4 +30,4 @@ Python is arguably the best language for math-heavy interview questions because:
 - [GCD and LCM](02-gcd-and-lcm.md)
 - [Prime Numbers](03-prime-numbers.md)
 - [Modular Arithmetic](05-modular-arithmetic.md)
-- [Math Built-ins](../part-07-standard-library/06-math.md)
+- [Math Built-ins](../standard-library/06-math.md)

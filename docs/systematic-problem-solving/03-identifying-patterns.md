@@ -74,4 +74,4 @@ If the problem doesn't clearly fit any of the above:
 ## Related Topics
 
 - [Choosing Data Structures](04-choosing-data-structures.md)
-- [LeetCode Patterns](../part-17-leetcode-patterns/01-index.md)
+- [LeetCode Patterns](../leetcode-patterns/01-index.md)

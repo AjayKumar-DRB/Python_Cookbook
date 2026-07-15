@@ -44,4 +44,4 @@ Keep this in mind as you progress through this section.
 
 ---
 
-> **Note:** If you haven't already, make sure to read the [Mutable vs Immutable Objects](../part-01-python-foundations/mutable-vs-immutable.md) chapter in the Foundations section before proceeding.
+> **Note:** If you haven't already, make sure to read the [Mutable vs Immutable Objects](../python-foundations/mutable-vs-immutable.md) chapter in the Foundations section before proceeding.

@@ -62,4 +62,4 @@ Extract logic into helper functions.
 ## Related Topics
 
 - [Coding Round](02-coding-round.md)
-- [Communicating Your Solution](../part-16-systematic-problem-solving/09-communicating-your-solution.md)
+- [Communicating Your Solution](../systematic-problem-solving/09-communicating-your-solution.md)

@@ -29,5 +29,5 @@ Instead of solving the entire problem at once using a loop (iteration), a recurs
 - [Recursion Basics](02-recursion-basics.md)
 - [Call Stack](05-call-stack.md)
 - [Backtracking vs Recursion](08-backtracking-vs-recursion.md)
-- [Trees](../part-10-algorithmic-patterns/14-trees.md)
-- [Dynamic Programming](../part-10-algorithmic-patterns/21-dynamic-programming.md)
+- [Trees](../algorithmic-patterns/14-trees.md)
+- [Dynamic Programming](../algorithmic-patterns/21-dynamic-programming.md)

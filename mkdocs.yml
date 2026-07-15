@@ -53,231 +53,231 @@ nav:
   - Why This Book: preface/01-why-this-book.md
   - How To Use This Cookbook: preface/02-how-to-use-this-cookbook.md
   - Learning Roadmap: preface/03-learning-roadmap.md
-- Part 01 - Python Foundations:
-  - Introduction: part-01-python-foundations/01-index.md
-  - Why Python For Coding Interviews: part-01-python-foundations/02-why-python-for-coding-interviews.md
-  - Variables Objects And References: part-01-python-foundations/03-variables-objects-and-references.md
-  - Python Memory Model: part-01-python-foundations/04-python-memory-model.md
-  - Mutable Vs Immutable: part-01-python-foundations/05-mutable-vs-immutable.md
-  - Assignment Vs Copying: part-01-python-foundations/06-assignment-vs-copying.md
-  - Equality Vs Identity: part-01-python-foundations/07-equality-vs-identity.md
-  - Truthy And Falsy: part-01-python-foundations/08-truthy-and-falsy.md
-  - Type Conversion: part-01-python-foundations/09-type-conversion.md
-  - Operators Used In Dsa: part-01-python-foundations/10-operators-used-in-dsa.md
-  - Membership Operators: part-01-python-foundations/11-membership-operators.md
-  - Common Python Pitfalls: part-01-python-foundations/12-common-python-pitfalls.md
-  - Python Complexity Reference: part-01-python-foundations/13-python-complexity-reference.md
-- Part 02 - Strings:
-  - Introduction: part-02-strings/01-index.md
-  - Creating Strings: part-02-strings/02-creating-strings.md
-  - Indexing And Slicing: part-02-strings/03-indexing-and-slicing.md
-  - Lower Upper Casefold: part-02-strings/04-lower-upper-casefold.md
-  - Strip Lstrip Rstrip: part-02-strings/05-strip-lstrip-rstrip.md
-  - Split: part-02-strings/06-split.md
-  - Join: part-02-strings/07-join.md
-  - Replace: part-02-strings/08-replace.md
-  - Find Index Count: part-02-strings/09-find-index-count.md
-  - String Validation Methods: part-02-strings/10-string-validation-methods.md
-  - String Formatting: part-02-strings/11-string-formatting.md
-  - Removing Special Characters: part-02-strings/12-removing-special-characters.md
-  - Ord And Chr: part-02-strings/13-ord-and-chr.md
-  - Ascii And Unicode: part-02-strings/14-ascii-and-unicode.md
-  - Manual String Manipulation: part-02-strings/15-manual-string-manipulation.md
-  - String Performance: part-02-strings/16-string-performance.md
-  - Interview Recipes: part-02-strings/17-interview-recipes.md
-- Part 03 - Lists And Arrays:
-  - Introduction: part-03-lists-and-arrays/01-index.md
-  - Python Lists: part-03-lists-and-arrays/02-python-lists.md
-  - List Methods: part-03-lists-and-arrays/03-list-methods.md
-  - Dynamic Arrays: part-03-lists-and-arrays/04-dynamic-arrays.md
-  - Indexing And Slicing: part-03-lists-and-arrays/05-indexing-and-slicing.md
-  - List Comprehensions: part-03-lists-and-arrays/06-list-comprehensions.md
-  - Multidimensional Lists: part-03-lists-and-arrays/07-multidimensional-lists.md
-  - Sorting Lists: part-03-lists-and-arrays/08-sorting-lists.md
-  - Unpacking: part-03-lists-and-arrays/09-unpacking.md
-  - Enumerate: part-03-lists-and-arrays/10-enumerate.md
-  - Zip: part-03-lists-and-arrays/11-zip.md
-  - Interview Recipes: part-03-lists-and-arrays/12-interview-recipes.md
-- Part 04 - Dictionaries:
-  - Introduction: part-04-dictionaries/01-index.md
-  - Hash Tables: part-04-dictionaries/02-hash-tables.md
-  - Python Dictionaries: part-04-dictionaries/03-python-dictionaries.md
-  - Dictionary Methods: part-04-dictionaries/04-dictionary-methods.md
-  - Dictionary Comprehensions: part-04-dictionaries/05-dictionary-comprehensions.md
-  - Frequency Maps: part-04-dictionaries/06-frequency-maps.md
-  - Manual Hash Map: part-04-dictionaries/07-manual-hash-map.md
-  - Interview Recipes: part-04-dictionaries/08-interview-recipes.md
-- Part 05 - Sets:
-  - Introduction: part-05-sets/01-index.md
-  - Hashing: part-05-sets/02-hashing.md
-  - Python Sets: part-05-sets/03-python-sets.md
-  - Set Operations: part-05-sets/04-set-operations.md
-  - Frozenset: part-05-sets/05-frozenset.md
-  - Interview Recipes: part-05-sets/06-interview-recipes.md
-- Part 06 - Collections:
-  - Introduction: part-06-collections/01-index.md
-  - Deque: part-06-collections/02-deque.md
-  - Counter: part-06-collections/03-counter.md
-  - Defaultdict: part-06-collections/04-defaultdict.md
-  - Chainmap: part-06-collections/05-chainmap.md
-  - Namedtuple: part-06-collections/06-namedtuple.md
-  - Ordereddict: part-06-collections/07-ordereddict.md
-  - Interview Recipes: part-06-collections/08-interview-recipes.md
-- Part 07 - Standard Library:
-  - Introduction: part-07-standard-library/01-index.md
-  - Heapq: part-07-standard-library/02-heapq.md
-  - Bisect: part-07-standard-library/03-bisect.md
-  - Itertools: part-07-standard-library/04-itertools.md
-  - Functools: part-07-standard-library/05-functools.md
-  - Math: part-07-standard-library/06-math.md
-  - Operator: part-07-standard-library/07-operator.md
-  - Interview Recipes: part-07-standard-library/08-interview-recipes.md
-- Part 08 - Builtins:
-  - Introduction: part-08-builtins/01-index.md
-  - Any And All: part-08-builtins/02-any-and-all.md
-  - Iter And Next: part-08-builtins/03-iter-and-next.md
-  - Map: part-08-builtins/04-map.md
-  - Filter: part-08-builtins/05-filter.md
-  - Sorted: part-08-builtins/06-sorted.md
-  - Sum Min Max: part-08-builtins/07-sum-min-max.md
-  - Interview Recipes: part-08-builtins/08-interview-recipes.md
-- Part 09 - Sorting:
-  - Introduction: part-09-sorting/01-index.md
-  - Sort Vs Sorted: part-09-sorting/02-sort-vs-sorted.md
-  - Timsort: part-09-sorting/03-timsort.md
-  - Stable Sorting: part-09-sorting/04-stable-sorting.md
-  - Custom Sorting: part-09-sorting/05-custom-sorting.md
-  - Interview Recipes: part-09-sorting/06-interview-recipes.md
-- Part 10 - Algorithmic Patterns:
-  - Introduction: part-10-algorithmic-patterns/01-index.md
-  - Two Pointers: part-10-algorithmic-patterns/02-two-pointers.md
-  - Sliding Window: part-10-algorithmic-patterns/03-sliding-window.md
-  - Prefix Sum: part-10-algorithmic-patterns/04-prefix-sum.md
-  - Difference Array: part-10-algorithmic-patterns/05-difference-array.md
-  - Binary Search: part-10-algorithmic-patterns/06-binary-search.md
-  - Fast And Slow Pointers: part-10-algorithmic-patterns/07-fast-and-slow-pointers.md
-  - Linked List: part-10-algorithmic-patterns/08-linked-list.md
-  - Stack: part-10-algorithmic-patterns/09-stack.md
-  - Monotonic Stack: part-10-algorithmic-patterns/10-monotonic-stack.md
-  - Queue: part-10-algorithmic-patterns/11-queue.md
-  - Monotonic Queue: part-10-algorithmic-patterns/12-monotonic-queue.md
-  - Heaps: part-10-algorithmic-patterns/13-heaps.md
-  - Trees: part-10-algorithmic-patterns/14-trees.md
-  - Binary Search Tree: part-10-algorithmic-patterns/15-binary-search-tree.md
-  - Tries: part-10-algorithmic-patterns/16-tries.md
-  - Graphs: part-10-algorithmic-patterns/17-graphs.md
-  - Topological Sort: part-10-algorithmic-patterns/18-topological-sort.md
-  - Union Find: part-10-algorithmic-patterns/19-union-find.md
-  - Greedy: part-10-algorithmic-patterns/20-greedy.md
-  - Dynamic Programming: part-10-algorithmic-patterns/21-dynamic-programming.md
-  - Bit Manipulation: part-10-algorithmic-patterns/22-bit-manipulation.md
-  - Backtracking: part-10-algorithmic-patterns/23-backtracking.md
-- Part 11 - Interview Templates:
-  - Introduction: part-11-interview-templates/01-index.md
-  - Two Pointers Template: part-11-interview-templates/02-two-pointers-template.md
-  - Sliding Window Template: part-11-interview-templates/03-sliding-window-template.md
-  - Binary Search Template: part-11-interview-templates/04-binary-search-template.md
-  - Bfs Template: part-11-interview-templates/05-bfs-template.md
-  - Dfs Template: part-11-interview-templates/06-dfs-template.md
-  - Graph Template: part-11-interview-templates/07-graph-template.md
-  - Heap Template: part-11-interview-templates/08-heap-template.md
-  - Dynamic Programming Template: part-11-interview-templates/09-dynamic-programming-template.md
-- Part 12 - Interview Pitfalls:
-  - Introduction: part-12-interview-pitfalls/01-index.md
-  - Shallow Vs Deep Copy: part-12-interview-pitfalls/02-shallow-vs-deep-copy.md
-  - Mutable Default Arguments: part-12-interview-pitfalls/03-mutable-default-arguments.md
-  - Off By One Errors: part-12-interview-pitfalls/04-off-by-one-errors.md
-  - Recursion Limit: part-12-interview-pitfalls/05-recursion-limit.md
-  - Time Complexity Traps: part-12-interview-pitfalls/06-time-complexity-traps.md
-  - Memory Pitfalls: part-12-interview-pitfalls/07-memory-pitfalls.md
-  - Performance Optimizations: part-12-interview-pitfalls/08-performance-optimizations.md
-  - Python Tricks: part-12-interview-pitfalls/09-python-tricks.md
-  - Useful One Liners: part-12-interview-pitfalls/10-useful-one-liners.md
-- Part 13 - Recursion:
-  - Introduction: part-13-recursion/01-index.md
-  - Recursion Basics: part-13-recursion/02-recursion-basics.md
-  - Recursion Tree: part-13-recursion/03-recursion-tree.md
-  - Base Case: part-13-recursion/04-base-case.md
-  - Call Stack: part-13-recursion/05-call-stack.md
-  - Tail Recursion: part-13-recursion/06-tail-recursion.md
-  - Recursion Vs Iteration: part-13-recursion/07-recursion-vs-iteration.md
-  - Backtracking Vs Recursion: part-13-recursion/08-backtracking-vs-recursion.md
-  - Common Patterns: part-13-recursion/09-common-patterns.md
-  - Interview Recipes: part-13-recursion/10-interview-recipes.md
-- Part 14 - Bit Manipulation:
-  - Introduction: part-14-bit-manipulation/01-index.md
-  - Binary Numbers: part-14-bit-manipulation/02-binary-numbers.md
-  - Bitwise Operators: part-14-bit-manipulation/03-bitwise-operators.md
-  - Xor Tricks: part-14-bit-manipulation/04-xor-tricks.md
-  - Bit Masks: part-14-bit-manipulation/05-bit-masks.md
-  - Checking Powers Of Two: part-14-bit-manipulation/06-checking-powers-of-two.md
-  - Counting Bits: part-14-bit-manipulation/07-counting-bits.md
-  - Subsets Using Bits: part-14-bit-manipulation/08-subsets-using-bits.md
-  - Interview Recipes: part-14-bit-manipulation/09-interview-recipes.md
-- Part 15 - Mathematics:
-  - Introduction: part-15-mathematics/01-index.md
-  - Gcd And Lcm: part-15-mathematics/02-gcd-and-lcm.md
-  - Prime Numbers: part-15-mathematics/03-prime-numbers.md
-  - Sieve Of Eratosthenes: part-15-mathematics/04-sieve-of-eratosthenes.md
-  - Modular Arithmetic: part-15-mathematics/05-modular-arithmetic.md
-  - Fast Exponentiation: part-15-mathematics/06-fast-exponentiation.md
-  - Combinatorics: part-15-mathematics/07-combinatorics.md
-  - Probability Basics: part-15-mathematics/08-probability-basics.md
-  - Interview Recipes: part-15-mathematics/09-interview-recipes.md
-- Part 16 - Systematic Problem Solving:
-  - Introduction: part-16-systematic-problem-solving/01-index.md
-  - Reading The Problem: part-16-systematic-problem-solving/02-reading-the-problem.md
-  - Identifying Patterns: part-16-systematic-problem-solving/03-identifying-patterns.md
-  - Choosing Data Structures: part-16-systematic-problem-solving/04-choosing-data-structures.md
-  - Choosing Algorithms: part-16-systematic-problem-solving/05-choosing-algorithms.md
-  - Complexity Analysis: part-16-systematic-problem-solving/06-complexity-analysis.md
-  - Dry Running: part-16-systematic-problem-solving/07-dry-running.md
-  - Debugging Under Pressure: part-16-systematic-problem-solving/08-debugging-under-pressure.md
-  - Communicating Your Solution: part-16-systematic-problem-solving/09-communicating-your-solution.md
-  - Interview Recipes: part-16-systematic-problem-solving/10-interview-recipes.md
-- Part 17 - Leetcode Patterns:
-  - Introduction: part-17-leetcode-patterns/01-index.md
-  - Easy Roadmap: part-17-leetcode-patterns/02-easy-roadmap.md
-  - Medium Roadmap: part-17-leetcode-patterns/03-medium-roadmap.md
-  - Hard Roadmap: part-17-leetcode-patterns/04-hard-roadmap.md
-  - Blind 75: part-17-leetcode-patterns/05-blind-75.md
-  - Neetcode 150: part-17-leetcode-patterns/06-neetcode-150.md
-  - Grind 75: part-17-leetcode-patterns/07-grind-75.md
-  - Company Patterns: part-17-leetcode-patterns/08-company-patterns.md
-  - Interview Recipes: part-17-leetcode-patterns/09-interview-recipes.md
-- Part 18 - Faang Interview Guide:
-  - Introduction: part-18-faang-interview-guide/01-index.md
-  - Coding Round: part-18-faang-interview-guide/02-coding-round.md
-  - Online Assessment: part-18-faang-interview-guide/03-online-assessment.md
-  - Behavioral Round: part-18-faang-interview-guide/04-behavioral-round.md
-  - Pair Programming: part-18-faang-interview-guide/05-pair-programming.md
-  - Whiteboard Vs Editor: part-18-faang-interview-guide/06-whiteboard-vs-editor.md
-  - Communicating Thinking: part-18-faang-interview-guide/07-communicating-thinking.md
-  - Handling Hints: part-18-faang-interview-guide/08-handling-hints.md
-  - Common Interviewer Expectations: part-18-faang-interview-guide/09-common-interviewer-expectations.md
-  - Interview Checklist: part-18-faang-interview-guide/10-interview-checklist.md
-- Part 19 - Real Interview Walkthroughs:
-  - Introduction: part-19-real-interview-walkthroughs/01-index.md
-  - Valid Anagram: part-19-real-interview-walkthroughs/02-valid-anagram.md
-  - Two Sum: part-19-real-interview-walkthroughs/03-two-sum.md
-  - Group Anagrams: part-19-real-interview-walkthroughs/04-group-anagrams.md
-  - Longest Substring: part-19-real-interview-walkthroughs/05-longest-substring.md
-  - Top K Frequent: part-19-real-interview-walkthroughs/06-top-k-frequent.md
-  - Merge Intervals: part-19-real-interview-walkthroughs/07-merge-intervals.md
-  - Number Of Islands: part-19-real-interview-walkthroughs/08-number-of-islands.md
-  - Lru Cache: part-19-real-interview-walkthroughs/09-lru-cache.md
-  - Word Break: part-19-real-interview-walkthroughs/10-word-break.md
-  - Median Of Two Sorted Arrays: part-19-real-interview-walkthroughs/11-median-of-two-sorted-arrays.md
-- Part 20 - Capstone:
-  - Introduction: part-20-capstone/01-index.md
-  - Complete Python Cheat Sheet: part-20-capstone/02-complete-python-cheat-sheet.md
-  - Interview Day Checklist: part-20-capstone/03-interview-day-checklist.md
-  - Common Python Snippets: part-20-capstone/04-common-python-snippets.md
-  - Template Library: part-20-capstone/05-template-library.md
-  - Complexity Master Table: part-20-capstone/06-complexity-master-table.md
-  - Standard Library Summary: part-20-capstone/07-standard-library-summary.md
-  - Final Learning Path: part-20-capstone/08-final-learning-path.md
-  - Where To Go Next: part-20-capstone/09-where-to-go-next.md
+- Python Foundations:
+  - Introduction: python-foundations/01-index.md
+  - Why Python For Coding Interviews: python-foundations/02-why-python-for-coding-interviews.md
+  - Variables Objects And References: python-foundations/03-variables-objects-and-references.md
+  - Python Memory Model: python-foundations/04-python-memory-model.md
+  - Mutable Vs Immutable: python-foundations/05-mutable-vs-immutable.md
+  - Assignment Vs Copying: python-foundations/06-assignment-vs-copying.md
+  - Equality Vs Identity: python-foundations/07-equality-vs-identity.md
+  - Truthy And Falsy: python-foundations/08-truthy-and-falsy.md
+  - Type Conversion: python-foundations/09-type-conversion.md
+  - Operators Used In Dsa: python-foundations/10-operators-used-in-dsa.md
+  - Membership Operators: python-foundations/11-membership-operators.md
+  - Common Python Pitfalls: python-foundations/12-common-python-pitfalls.md
+  - Python Complexity Reference: python-foundations/13-python-complexity-reference.md
+- Strings:
+  - Introduction: strings/01-index.md
+  - Creating Strings: strings/02-creating-strings.md
+  - Indexing And Slicing: strings/03-indexing-and-slicing.md
+  - Lower Upper Casefold: strings/04-lower-upper-casefold.md
+  - Strip Lstrip Rstrip: strings/05-strip-lstrip-rstrip.md
+  - Split: strings/06-split.md
+  - Join: strings/07-join.md
+  - Replace: strings/08-replace.md
+  - Find Index Count: strings/09-find-index-count.md
+  - String Validation Methods: strings/10-string-validation-methods.md
+  - String Formatting: strings/11-string-formatting.md
+  - Removing Special Characters: strings/12-removing-special-characters.md
+  - Ord And Chr: strings/13-ord-and-chr.md
+  - Ascii And Unicode: strings/14-ascii-and-unicode.md
+  - Manual String Manipulation: strings/15-manual-string-manipulation.md
+  - String Performance: strings/16-string-performance.md
+  - Interview Recipes: strings/17-interview-recipes.md
+- Lists And Arrays:
+  - Introduction: lists-and-arrays/01-index.md
+  - Python Lists: lists-and-arrays/02-python-lists.md
+  - List Methods: lists-and-arrays/03-list-methods.md
+  - Dynamic Arrays: lists-and-arrays/04-dynamic-arrays.md
+  - Indexing And Slicing: lists-and-arrays/05-indexing-and-slicing.md
+  - List Comprehensions: lists-and-arrays/06-list-comprehensions.md
+  - Multidimensional Lists: lists-and-arrays/07-multidimensional-lists.md
+  - Sorting Lists: lists-and-arrays/08-sorting-lists.md
+  - Unpacking: lists-and-arrays/09-unpacking.md
+  - Enumerate: lists-and-arrays/10-enumerate.md
+  - Zip: lists-and-arrays/11-zip.md
+  - Interview Recipes: lists-and-arrays/12-interview-recipes.md
+- Dictionaries:
+  - Introduction: dictionaries/01-index.md
+  - Hash Tables: dictionaries/02-hash-tables.md
+  - Python Dictionaries: dictionaries/03-python-dictionaries.md
+  - Dictionary Methods: dictionaries/04-dictionary-methods.md
+  - Dictionary Comprehensions: dictionaries/05-dictionary-comprehensions.md
+  - Frequency Maps: dictionaries/06-frequency-maps.md
+  - Manual Hash Map: dictionaries/07-manual-hash-map.md
+  - Interview Recipes: dictionaries/08-interview-recipes.md
+- Sets:
+  - Introduction: sets/01-index.md
+  - Hashing: sets/02-hashing.md
+  - Python Sets: sets/03-python-sets.md
+  - Set Operations: sets/04-set-operations.md
+  - Frozenset: sets/05-frozenset.md
+  - Interview Recipes: sets/06-interview-recipes.md
+- Collections:
+  - Introduction: collections/01-index.md
+  - Deque: collections/02-deque.md
+  - Counter: collections/03-counter.md
+  - Defaultdict: collections/04-defaultdict.md
+  - Chainmap: collections/05-chainmap.md
+  - Namedtuple: collections/06-namedtuple.md
+  - Ordereddict: collections/07-ordereddict.md
+  - Interview Recipes: collections/08-interview-recipes.md
+- Standard Library:
+  - Introduction: standard-library/01-index.md
+  - Heapq: standard-library/02-heapq.md
+  - Bisect: standard-library/03-bisect.md
+  - Itertools: standard-library/04-itertools.md
+  - Functools: standard-library/05-functools.md
+  - Math: standard-library/06-math.md
+  - Operator: standard-library/07-operator.md
+  - Interview Recipes: standard-library/08-interview-recipes.md
+- Builtins:
+  - Introduction: builtins/01-index.md
+  - Any And All: builtins/02-any-and-all.md
+  - Iter And Next: builtins/03-iter-and-next.md
+  - Map: builtins/04-map.md
+  - Filter: builtins/05-filter.md
+  - Sorted: builtins/06-sorted.md
+  - Sum Min Max: builtins/07-sum-min-max.md
+  - Interview Recipes: builtins/08-interview-recipes.md
+- Sorting:
+  - Introduction: sorting/01-index.md
+  - Sort Vs Sorted: sorting/02-sort-vs-sorted.md
+  - Timsort: sorting/03-timsort.md
+  - Stable Sorting: sorting/04-stable-sorting.md
+  - Custom Sorting: sorting/05-custom-sorting.md
+  - Interview Recipes: sorting/06-interview-recipes.md
+- Algorithmic Patterns:
+  - Introduction: algorithmic-patterns/01-index.md
+  - Two Pointers: algorithmic-patterns/02-two-pointers.md
+  - Sliding Window: algorithmic-patterns/03-sliding-window.md
+  - Prefix Sum: algorithmic-patterns/04-prefix-sum.md
+  - Difference Array: algorithmic-patterns/05-difference-array.md
+  - Binary Search: algorithmic-patterns/06-binary-search.md
+  - Fast And Slow Pointers: algorithmic-patterns/07-fast-and-slow-pointers.md
+  - Linked List: algorithmic-patterns/08-linked-list.md
+  - Stack: algorithmic-patterns/09-stack.md
+  - Monotonic Stack: algorithmic-patterns/10-monotonic-stack.md
+  - Queue: algorithmic-patterns/11-queue.md
+  - Monotonic Queue: algorithmic-patterns/12-monotonic-queue.md
+  - Heaps: algorithmic-patterns/13-heaps.md
+  - Trees: algorithmic-patterns/14-trees.md
+  - Binary Search Tree: algorithmic-patterns/15-binary-search-tree.md
+  - Tries: algorithmic-patterns/16-tries.md
+  - Graphs: algorithmic-patterns/17-graphs.md
+  - Topological Sort: algorithmic-patterns/18-topological-sort.md
+  - Union Find: algorithmic-patterns/19-union-find.md
+  - Greedy: algorithmic-patterns/20-greedy.md
+  - Dynamic Programming: algorithmic-patterns/21-dynamic-programming.md
+  - Bit Manipulation: algorithmic-patterns/22-bit-manipulation.md
+  - Backtracking: algorithmic-patterns/23-backtracking.md
+- Interview Templates:
+  - Introduction: interview-templates/01-index.md
+  - Two Pointers Template: interview-templates/02-two-pointers-template.md
+  - Sliding Window Template: interview-templates/03-sliding-window-template.md
+  - Binary Search Template: interview-templates/04-binary-search-template.md
+  - Bfs Template: interview-templates/05-bfs-template.md
+  - Dfs Template: interview-templates/06-dfs-template.md
+  - Graph Template: interview-templates/07-graph-template.md
+  - Heap Template: interview-templates/08-heap-template.md
+  - Dynamic Programming Template: interview-templates/09-dynamic-programming-template.md
+- Interview Pitfalls:
+  - Introduction: interview-pitfalls/01-index.md
+  - Shallow Vs Deep Copy: interview-pitfalls/02-shallow-vs-deep-copy.md
+  - Mutable Default Arguments: interview-pitfalls/03-mutable-default-arguments.md
+  - Off By One Errors: interview-pitfalls/04-off-by-one-errors.md
+  - Recursion Limit: interview-pitfalls/05-recursion-limit.md
+  - Time Complexity Traps: interview-pitfalls/06-time-complexity-traps.md
+  - Memory Pitfalls: interview-pitfalls/07-memory-pitfalls.md
+  - Performance Optimizations: interview-pitfalls/08-performance-optimizations.md
+  - Python Tricks: interview-pitfalls/09-python-tricks.md
+  - Useful One Liners: interview-pitfalls/10-useful-one-liners.md
+- Recursion:
+  - Introduction: recursion/01-index.md
+  - Recursion Basics: recursion/02-recursion-basics.md
+  - Recursion Tree: recursion/03-recursion-tree.md
+  - Base Case: recursion/04-base-case.md
+  - Call Stack: recursion/05-call-stack.md
+  - Tail Recursion: recursion/06-tail-recursion.md
+  - Recursion Vs Iteration: recursion/07-recursion-vs-iteration.md
+  - Backtracking Vs Recursion: recursion/08-backtracking-vs-recursion.md
+  - Common Patterns: recursion/09-common-patterns.md
+  - Interview Recipes: recursion/10-interview-recipes.md
+- Bit Manipulation:
+  - Introduction: bit-manipulation/01-index.md
+  - Binary Numbers: bit-manipulation/02-binary-numbers.md
+  - Bitwise Operators: bit-manipulation/03-bitwise-operators.md
+  - Xor Tricks: bit-manipulation/04-xor-tricks.md
+  - Bit Masks: bit-manipulation/05-bit-masks.md
+  - Checking Powers Of Two: bit-manipulation/06-checking-powers-of-two.md
+  - Counting Bits: bit-manipulation/07-counting-bits.md
+  - Subsets Using Bits: bit-manipulation/08-subsets-using-bits.md
+  - Interview Recipes: bit-manipulation/09-interview-recipes.md
+- Mathematics:
+  - Introduction: mathematics/01-index.md
+  - Gcd And Lcm: mathematics/02-gcd-and-lcm.md
+  - Prime Numbers: mathematics/03-prime-numbers.md
+  - Sieve Of Eratosthenes: mathematics/04-sieve-of-eratosthenes.md
+  - Modular Arithmetic: mathematics/05-modular-arithmetic.md
+  - Fast Exponentiation: mathematics/06-fast-exponentiation.md
+  - Combinatorics: mathematics/07-combinatorics.md
+  - Probability Basics: mathematics/08-probability-basics.md
+  - Interview Recipes: mathematics/09-interview-recipes.md
+- Systematic Problem Solving:
+  - Introduction: systematic-problem-solving/01-index.md
+  - Reading The Problem: systematic-problem-solving/02-reading-the-problem.md
+  - Identifying Patterns: systematic-problem-solving/03-identifying-patterns.md
+  - Choosing Data Structures: systematic-problem-solving/04-choosing-data-structures.md
+  - Choosing Algorithms: systematic-problem-solving/05-choosing-algorithms.md
+  - Complexity Analysis: systematic-problem-solving/06-complexity-analysis.md
+  - Dry Running: systematic-problem-solving/07-dry-running.md
+  - Debugging Under Pressure: systematic-problem-solving/08-debugging-under-pressure.md
+  - Communicating Your Solution: systematic-problem-solving/09-communicating-your-solution.md
+  - Interview Recipes: systematic-problem-solving/10-interview-recipes.md
+- Leetcode Patterns:
+  - Introduction: leetcode-patterns/01-index.md
+  - Easy Roadmap: leetcode-patterns/02-easy-roadmap.md
+  - Medium Roadmap: leetcode-patterns/03-medium-roadmap.md
+  - Hard Roadmap: leetcode-patterns/04-hard-roadmap.md
+  - Blind 75: leetcode-patterns/05-blind-75.md
+  - Neetcode 150: leetcode-patterns/06-neetcode-150.md
+  - Grind 75: leetcode-patterns/07-grind-75.md
+  - Company Patterns: leetcode-patterns/08-company-patterns.md
+  - Interview Recipes: leetcode-patterns/09-interview-recipes.md
+- Faang Interview Guide:
+  - Introduction: faang-interview-guide/01-index.md
+  - Coding Round: faang-interview-guide/02-coding-round.md
+  - Online Assessment: faang-interview-guide/03-online-assessment.md
+  - Behavioral Round: faang-interview-guide/04-behavioral-round.md
+  - Pair Programming: faang-interview-guide/05-pair-programming.md
+  - Whiteboard Vs Editor: faang-interview-guide/06-whiteboard-vs-editor.md
+  - Communicating Thinking: faang-interview-guide/07-communicating-thinking.md
+  - Handling Hints: faang-interview-guide/08-handling-hints.md
+  - Common Interviewer Expectations: faang-interview-guide/09-common-interviewer-expectations.md
+  - Interview Checklist: faang-interview-guide/10-interview-checklist.md
+- Real Interview Walkthroughs:
+  - Introduction: real-interview-walkthroughs/01-index.md
+  - Valid Anagram: real-interview-walkthroughs/02-valid-anagram.md
+  - Two Sum: real-interview-walkthroughs/03-two-sum.md
+  - Group Anagrams: real-interview-walkthroughs/04-group-anagrams.md
+  - Longest Substring: real-interview-walkthroughs/05-longest-substring.md
+  - Top K Frequent: real-interview-walkthroughs/06-top-k-frequent.md
+  - Merge Intervals: real-interview-walkthroughs/07-merge-intervals.md
+  - Number Of Islands: real-interview-walkthroughs/08-number-of-islands.md
+  - Lru Cache: real-interview-walkthroughs/09-lru-cache.md
+  - Word Break: real-interview-walkthroughs/10-word-break.md
+  - Median Of Two Sorted Arrays: real-interview-walkthroughs/11-median-of-two-sorted-arrays.md
+- Capstone:
+  - Introduction: capstone/01-index.md
+  - Complete Python Cheat Sheet: capstone/02-complete-python-cheat-sheet.md
+  - Interview Day Checklist: capstone/03-interview-day-checklist.md
+  - Common Python Snippets: capstone/04-common-python-snippets.md
+  - Template Library: capstone/05-template-library.md
+  - Complexity Master Table: capstone/06-complexity-master-table.md
+  - Standard Library Summary: capstone/07-standard-library-summary.md
+  - Final Learning Path: capstone/08-final-learning-path.md
+  - Where To Go Next: capstone/09-where-to-go-next.md
 - Appendix:
   - Ascii Table: appendix/01-ascii-table.md
   - Unicode Reference: appendix/02-unicode-reference.md

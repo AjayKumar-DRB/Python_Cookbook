@@ -93,4 +93,4 @@ print(bin(unsigned_32bit)) # "0b11111111111111111111111111110111"
 ## Related Topics
 
 - [Bitwise Operators](03-bitwise-operators.md)
-- [Two's Complement Trick](../part-14-bit-manipulation/04-xor-tricks.md)
+- [Two's Complement Trick](../bit-manipulation/04-xor-tricks.md)

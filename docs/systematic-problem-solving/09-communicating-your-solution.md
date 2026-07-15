@@ -62,4 +62,4 @@ If the interviewer is completely silent while you code, that is normal. They are
 ## Related Topics
 
 - [Choosing Algorithms](05-choosing-algorithms.md)
-- [FAANG Interview Guide](../part-18-faang-interview-guide/01-index.md)
+- [FAANG Interview Guide](../faang-interview-guide/01-index.md)

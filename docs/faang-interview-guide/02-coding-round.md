@@ -63,5 +63,5 @@ If you mismanage your time, you will fail, even if you know the answer. Memorize
 
 ## Related Topics
 
-- [Systematic Problem Solving](../part-16-systematic-problem-solving/01-index.md)
-- [Communicating Your Solution](../part-16-systematic-problem-solving/09-communicating-your-solution.md)
+- [Systematic Problem Solving](../systematic-problem-solving/01-index.md)
+- [Communicating Your Solution](../systematic-problem-solving/09-communicating-your-solution.md)

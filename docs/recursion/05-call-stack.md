@@ -111,4 +111,4 @@ If you are solving an interview problem where the input size (like a Tree height
 - [Base Case](04-base-case.md)
 - [Recursion Tree](03-recursion-tree.md)
 - [Backtracking vs Recursion](08-backtracking-vs-recursion.md)
-- [Recursion Limit](../part-12-interview-pitfalls/05-recursion-limit.md)
+- [Recursion Limit](../interview-pitfalls/05-recursion-limit.md)

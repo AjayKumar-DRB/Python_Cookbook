@@ -90,5 +90,5 @@ This is why the time complexity for generating a Power Set using Backtracking is
 
 ## Related Topics
 
-- [Math Module](../part-07-standard-library/06-math.md)
-- [Backtracking Pattern](../part-10-algorithmic-patterns/23-backtracking.md)
+- [Math Module](../standard-library/06-math.md)
+- [Backtracking Pattern](../algorithmic-patterns/23-backtracking.md)

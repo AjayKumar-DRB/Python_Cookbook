@@ -96,4 +96,4 @@ Breadth-First Search requires exploring level by level. The Call Stack is inhere
 
 - [Call Stack](05-call-stack.md)
 - [Tail Recursion](06-tail-recursion.md)
-- [Trees](../part-10-algorithmic-patterns/14-trees.md)
+- [Trees](../algorithmic-patterns/14-trees.md)

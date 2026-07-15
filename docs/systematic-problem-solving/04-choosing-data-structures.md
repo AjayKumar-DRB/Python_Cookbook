@@ -77,7 +77,7 @@ If you check `if item in my_list:`, it takes $O(N)$ time. If you do this inside 
 
 ## Related Topics
 
-- [Python Dictionaries](../part-04-dictionaries/03-python-dictionaries.md)
-- [Python Sets](../part-05-sets/03-python-sets.md)
-- [Deque](../part-06-collections/02-deque.md)
-- [Heapq](../part-07-standard-library/02-heapq.md)
+- [Python Dictionaries](../dictionaries/03-python-dictionaries.md)
+- [Python Sets](../sets/03-python-sets.md)
+- [Deque](../collections/02-deque.md)
+- [Heapq](../standard-library/02-heapq.md)

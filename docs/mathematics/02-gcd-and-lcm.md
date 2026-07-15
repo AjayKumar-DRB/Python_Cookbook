@@ -85,4 +85,4 @@ print(math.lcm(12, 18)) # 36
 
 ## Related Topics
 
-- [Math Module](../part-07-standard-library/06-math.md)
+- [Math Module](../standard-library/06-math.md)

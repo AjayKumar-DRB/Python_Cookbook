@@ -85,4 +85,4 @@ For example, appending to a Python list is Amortized $O(1)$. When the list runs 
 
 ## Related Topics
 
-- [Python Complexity Reference](../part-01-python-foundations/13-python-complexity-reference.md)
+- [Python Complexity Reference](../python-foundations/13-python-complexity-reference.md)

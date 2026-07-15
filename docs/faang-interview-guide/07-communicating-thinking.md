@@ -59,4 +59,4 @@ By saying this, the interviewer knows exactly where your roadblock is. They can 
 ## Related Topics
 
 - [Handling Hints](08-handling-hints.md)
-- [Systematic Problem Solving](../part-16-systematic-problem-solving/09-communicating-your-solution.md)
+- [Systematic Problem Solving](../systematic-problem-solving/09-communicating-your-solution.md)

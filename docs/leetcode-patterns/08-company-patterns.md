@@ -64,4 +64,4 @@ These are arguably harder than FAANG.
 
 ## Related Topics
 
-- [FAANG Interview Guide](../part-18-faang-interview-guide/01-index.md)
+- [FAANG Interview Guide](../faang-interview-guide/01-index.md)

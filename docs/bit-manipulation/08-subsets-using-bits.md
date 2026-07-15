@@ -85,4 +85,4 @@ The time complexity is identical to Backtracking ($2^N$ subsets, and copying a s
 ## Related Topics
 
 - [Bit Masks](05-bit-masks.md)
-- [Backtracking vs Recursion](../part-13-recursion/08-backtracking-vs-recursion.md)
+- [Backtracking vs Recursion](../recursion/08-backtracking-vs-recursion.md)

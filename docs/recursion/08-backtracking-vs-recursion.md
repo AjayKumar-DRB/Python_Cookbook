@@ -100,4 +100,4 @@ While this works and produces the correct result, it creates a new array in memo
 ## Related Topics
 
 - [Call Stack](05-call-stack.md)
-- [Backtracking Pattern](../part-10-algorithmic-patterns/23-backtracking.md)
+- [Backtracking Pattern](../algorithmic-patterns/23-backtracking.md)

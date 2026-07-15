@@ -75,4 +75,4 @@ The probability of picking the $i$-th element is $\frac{1}{i}$. The probability 
 
 ## Related Topics
 
-- [Math Module](../part-07-standard-library/06-math.md)
+- [Math Module](../standard-library/06-math.md)

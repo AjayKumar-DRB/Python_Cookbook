@@ -116,4 +116,4 @@ def subsets(nums):
 ## Related Topics
 
 - [Recursion Basics](02-recursion-basics.md)
-- [Trees](../part-10-algorithmic-patterns/14-trees.md)
+- [Trees](../algorithmic-patterns/14-trees.md)
