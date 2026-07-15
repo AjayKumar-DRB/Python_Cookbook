@@ -1,7 +1,7 @@
 site_name: Python Interview Cookbook
 site_description: The best free Python interview preparation resource on GitHub.
 site_author: Python Interview Cookbook Authors
-repo_url: https://github.com/USERNAME/python-cookbook
+repo_url: https://github.com/AjayKumar-DRB/Python_Cookbook/
 
 theme:
   name: material

@@ -46,7 +46,7 @@ For Mid-Level (L4) and Senior (L5) candidates, passing the coding round isn't en
 
 This cookbook is hosted as a beautiful, easily navigable static site using MkDocs Material.
 
-**[Read the full documentation here]** *(Replace with your GitHub Pages URL once deployed)*
+**[Read the full documentation here](https://AjayKumar-DRB.github.io/Python_Cookbook/)**
 
 If you prefer to run it locally:
 ```bash
